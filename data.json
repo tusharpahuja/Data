@@ -1,0 +1,66 @@
+{
+    "All Contacts": [
+        {
+            "id": 1,
+            "Name": "Anubhav Gupta",
+            "Job Title": "Senior Softare Engineer",
+            "Email": "anubhavgupta@microsoft.com",
+            "Phone": "9711770372",
+            "Location": "Japan"
+        },
+        {
+            "id": 2,
+            "Name": "Anurag Verma",
+            "Job Title": "Program Manager 2",
+            "Email": "anuragverma@microsoft.com",
+            "Phone": "9811166987",
+            "Location": "India"
+        },
+        {
+            "id": 3,
+            "Name": "Nitish Nilay",
+            "Job Title": "Softare Engineer",
+            "Email": "nitishnilay@microsoft.com",
+            "Phone": "7781947474",
+            "Location": "Canada"
+        },
+        {
+            "id": 4,
+            "Name": "Pranav Dixit",
+            "Job Title": "Softare Engineer",
+            "Email": "pranavdixit@microsoft.com",
+            "Phone": "8319940980",
+            "Location": "USA"
+        },
+        {
+            "id": 5,
+            "Name": "Sharon Mathews",
+            "Job Title": "Softare Engineer 2",
+            "Email": "sharonmathews@microsoft.com",
+            "Phone": "9998013139",
+            "Location": "India"
+        },
+        {
+            "id": 6,
+            "Name": "Tushar Pahuja",
+            "Job Title": "Softare Engineer",
+            "Email": "tusharpahuja@microsoft.com",
+            "Phone": "9790726867",
+            "Location": "India"
+        },
+    ],
+    "Lunch group": [
+        1,
+        3
+    ],
+    "Family": [
+        2,
+        4
+    ],
+    "Hackathon": [
+
+    ],
+    "Other contacts": [
+        6
+    ]
+}
